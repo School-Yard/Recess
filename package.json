@@ -1,0 +1,26 @@
+{
+  "name": "recess",
+  "description": "a collection of connect compatible middleware",
+  "version": "0.0.1",
+  "private": true,
+  "url": "https://github.com/TxSSC/Recess",
+  "keywords": ["middleware", "connect", "express"],
+  "dependencies": {
+    "library": "0.0.1"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "scripts": {
+    "test": "mocha test/**"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:TxSSC/Recess.git"
+  },
+  "main": "./lib/index.js",
+  "engines": {
+    "node": ">=0.6.x"
+  }
+}
