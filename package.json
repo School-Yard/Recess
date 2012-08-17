@@ -6,7 +6,7 @@
   "url": "https://github.com/TxSSC/Recess",
   "keywords": ["middleware", "connect", "express"],
   "dependencies": {
-    "library": "0.0.1"
+    "consolidate": ">=0.4.0"
   },
   "devDependencies": {
     "mocha": "*",
