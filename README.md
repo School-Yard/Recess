@@ -1,7 +1,7 @@
 Recess
 =======
 
-A framework for building [Card-Catalog](https://github.com/TxSSC/Card-Catalog) based apps on. Inspired by [Express](https://github.com/visionmedia/express) and [Union](https://github.com/flatiron/union).
+A framework for building [Card-Catalog](https://github.com/School-Yard/Card-Catalog) based apps on. Inspired by [Express](https://github.com/visionmedia/express) and [Union](https://github.com/flatiron/union).
 
 [![Build Status](https://secure.travis-ci.org/School-Yard/Recess.png?branch=master)](http://travis-ci.org/School-Yard/Recess)
 
@@ -29,7 +29,7 @@ $ npm install schoolyard-recess
 
 ## Usage
 
-Recess is simply a helper for building an application on top of [Card-Catalog](https://github.com/TxSSC/Card-Catalog). It provides a clean interface to setting up categories and cards as well as some helpers attached to the request and response object.
+Recess is simply a helper for building an application on top of [Card-Catalog](https://github.com/School-Yard/Card-Catalog). It provides a clean interface to setting up categories and cards as well as some helpers attached to the request and response object.
 
 Available helper methods on a recess object are:
 
@@ -59,7 +59,7 @@ app.card(Manager);
 app.listen(process.env.PORT);
 ```
 
-**For more information view the documentation on the [Card-Catalog](https://github.com/TxSSC/Card-Catalog) project**
+**For more information view the documentation on the [Card-Catalog](https://github.com/School-Yard/Card-Catalog) project**
 
 ## Tests
 
