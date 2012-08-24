@@ -1,4 +1,4 @@
 Recess
-===============
+=======
 
-A collection of connect compatible middleware.
+A framework for building [Card-Catalog](https://github.com/TxSSC/Card-Catalog) based apps on.
