@@ -1,10 +1,15 @@
 {
   "name": "recess",
-  "description": "a collection of connect compatible middleware",
+  "description": "an application framework for Card-Catalog",
   "version": "0.0.1",
-  "private": true,
+  "author": "Cody Stoltman <particlebanana@gmail.com>",
+  "maintainers" : [
+    "particlebanana <particlebanana@gmail.com>",
+    "vanetix <matmcfarland@gmail.com>"
+  ],
   "url": "https://github.com/TxSSC/Recess",
-  "keywords": ["middleware", "connect", "express"],
+  "keywords": ["cardcatalog", "connect", "express"],
+  "license" : "MIT",
   "dependencies": {
     "consolidate": "0.4.x",
     "cardcatalog": "0.0.x",
