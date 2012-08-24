@@ -3,6 +3,8 @@ Recess
 
 A framework for building [Card-Catalog](https://github.com/TxSSC/Card-Catalog) based apps on. Inspired by [Express](https://github.com/visionmedia/express) and [Union](https://github.com/flatiron/union).
 
+[![Build Status](https://secure.travis-ci.org/School-Yard/Recess.png?branch=master)](http://travis-ci.org/School-Yard/Recess)
+
 ```js
 var recess = require('recess'),
     manager = require('catalog_manager');
