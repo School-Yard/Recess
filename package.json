@@ -6,11 +6,16 @@
   "url": "https://github.com/TxSSC/Recess",
   "keywords": ["middleware", "connect", "express"],
   "dependencies": {
-    "library": "0.0.1"
+    "consolidate": "0.4.x",
+    "cardcatalog": "0.0.x",
+    "mime": "1.2.x"
   },
   "devDependencies": {
+    "trapperkeeper": "*",
     "mocha": "*",
-    "should": "*"
+    "should": "*",
+    "supertest": "*",
+    "ejs": "*"
   },
   "scripts": {
     "test": "mocha test/**"
@@ -19,7 +24,7 @@
     "type": "git",
     "url": "git+ssh://git@github.com:TxSSC/Recess.git"
   },
-  "main": "./lib/index.js",
+  "main": "./lib/recess.js",
   "engines": {
     "node": ">=0.6.x"
   }
