@@ -66,3 +66,7 @@ All tests are written in [mocha](https://github.com/visionmedia/mocha) and shoul
 ```bash
 $ npm test
 ```
+
+## Thanks
+
+Recess is heavily based off and inspired by the work done by TJ Holowaychuk and all the other contributers to [Express](https://github.com/visionmedia/express) and [Connect](https://github.com/senchalabs/connect). It borrows code from both the Express and Connect projects and tries to give attribution where code is used.
