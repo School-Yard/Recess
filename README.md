@@ -24,7 +24,7 @@ app.create();
 ## Install
 
 ```bash
-$ npm install recess
+$ npm install schoolyard-recess
 ```
 
 ## Usage
