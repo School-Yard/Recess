@@ -14,7 +14,8 @@
     "trapperkeeper": "*",
     "mocha": "*",
     "should": "*",
-    "supertest": "*"
+    "supertest": "*",
+    "ejs": "*"
   },
   "scripts": {
     "test": "mocha test/**"
