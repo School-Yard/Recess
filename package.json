@@ -7,7 +7,7 @@
     "particlebanana <particlebanana@gmail.com>",
     "vanetix <matmcfarland@gmail.com>"
   ],
-  "url": "https://github.com/TxSSC/Recess",
+  "url": "https://github.com/School-Yard/Recess",
   "keywords": ["cardcatalog", "connect", "express"],
   "license" : "MIT",
   "dependencies": {
@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:TxSSC/Recess.git"
+    "url": "git+ssh://git@github.com:School-Yard/Recess.git"
   },
   "main": "./lib/recess.js",
   "engines": {
