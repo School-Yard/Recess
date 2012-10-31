@@ -115,7 +115,7 @@ describe('res', function() {
       app.before(function(req, res){
         res.render(__dirname + '/fixtures/user.ejs', data, function(err, html) {
           html = html.replace('tobi', 'cody');
-          res.end(html);
+          res.send(html);
         });
       });
 
