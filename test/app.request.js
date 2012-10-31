@@ -12,7 +12,7 @@ describe('app', function() {
       };
 
       app.before(function(req, res) {
-        res.end(req.modified());
+        res.send(req.modified());
       });
 
       app.on('ready', function() {
